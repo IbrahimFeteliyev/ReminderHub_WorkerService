@@ -1,4 +1,4 @@
-# Your Project Name
+# ReminderHub_WorkerService
 
 Welcome to the README file for your project! Here are the instructions to set up and configure the project:
 
